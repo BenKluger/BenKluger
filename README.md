@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there!
+
+I'm a student in the Computer Science department of Queens College. I hope to graduate in Fall 2022 with a BS in CS and a minor in Math.
+
+Below you will find several repositories, focused on my personal projects as well as class projects.
+
+Enjoy!
 
 <!--
 **BenKluger/BenKluger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
