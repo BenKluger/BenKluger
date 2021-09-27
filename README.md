@@ -4,6 +4,8 @@ I'm a student in the Computer Science department of Queens College. I hope to gr
 
 Below you will find several repositories for my personal and class projects.
 
+Feel free to contact me at: BennyKluger@gmail.com
+
 Enjoy!
 
 <!--
