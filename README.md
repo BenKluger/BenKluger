@@ -2,7 +2,7 @@
 
 I'm a student in the Computer Science department of Queens College. I hope to graduate December 2022 with a BS in CS and a minor in Math.
 
-Below you will find several repositories, focused on my personal projects as well as class projects.
+Below you will find several repositories for both my personal and class projects.
 
 Enjoy!
 
